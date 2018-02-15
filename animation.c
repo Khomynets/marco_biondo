@@ -16,7 +16,7 @@
  	frame=0;
  	//ask delay (ms)
  	do{	
-		printf("Inserisci il ritardo: ");
+		printf("Inserisci il ritardo di marco: ");
  		fflush(stdin);
  		ValidType = scanf("%d", &delay);
  		if(!ValidType){
