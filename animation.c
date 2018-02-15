@@ -13,6 +13,10 @@
  	clock_t stoptime, currtime;
  	int a,b;
  	int ValidValue,ValidType;
+	 
+	 
+	 
+	 
  	frame=0;
  	//ask delay (ms)
  	do{	
